@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Omar Cerqueira 😁
 
  <div>
    <a href="https://github.com/OmarCerqueira">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para maiores contatos clica em um dos botões abaixo:
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
